@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DiscordTimestamp (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "DiscordTimestamp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
